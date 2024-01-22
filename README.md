@@ -16,7 +16,7 @@ The massive integration of renewable-based distributed energy resources (DERs) i
 * Run scripts after installing all packages. 
 
 # Dependencies
-This code requires installation of the following libraries: ```PYOMO```,```pandas 1.1.4```, ```numpy 1.20.1```, ```matplotlib 3.3.4```, ```pytorch 1.11.0```,  ```OMLT```,```wandb```. I used wandb to monitor the changes during the training. you can find more information [at this page](https://arxiv.org/abs/2305.05484).
+This code requires installation of the following libraries: ```PYOMO```,```pandas 1.1.4```, ```numpy 1.20.1```, ```matplotlib 3.3.4```, ```pytorch 1.11.0```,  ```OMLT```,```wandb```. You can find more information [at this page](https://arxiv.org/abs/2305.05484).
 
 # Recommended citation
 Hou Shengren, Pedro P. Vergara, Edgar Mauricio Salazar Duque, Peter Palensky, "Optimal energy system scheduling using a constraint-aware reinforcement learning algorithm", International Journal of Electrical Power & Energy Systems,
