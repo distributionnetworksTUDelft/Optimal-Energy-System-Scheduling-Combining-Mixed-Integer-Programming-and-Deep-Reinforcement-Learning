@@ -9,10 +9,10 @@ The massive integration of renewable-based distributed energy resources (DERs) i
 
 # Organization
 * Folder "Data" -- Historical and processed data.
-* script "Parameters"-- General parameters for batteries and other energy units.
-* script "MIP_DQN"-- The implementation of the proposed MIP-DQN algorithm.
-* script "random_generator_battery" -- The energy system environment
-* script "random_generator_more_battery" -- The energy system environment with multi-batteries. 
+* Script "Parameters"-- General parameters for batteries and other energy units.
+* Script "MIP_DQN"-- The implementation of the proposed MIP-DQN algorithm.
+* Script "random_generator_battery" -- The energy system environment
+* Script "random_generator_more_battery" -- The energy system environment with multi-batteries. 
 * Run scripts after installing all packages. 
 
 # Dependencies
